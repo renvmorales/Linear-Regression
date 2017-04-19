@@ -1,2 +1,2 @@
 # Linear-Regression
-Review and code implementation on Multiple Linear Regression
+Review and code implementation (in Octave/Matlab) on Multiple Linear Regression
